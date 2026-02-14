@@ -16,4 +16,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 This calculator can be used to quickly determine the interest earned on an investment or loan using the simple interest formula.
 
 ## Author
-Your Name
+Abdelrahman
